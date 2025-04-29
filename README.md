@@ -1,4 +1,4 @@
-## Hi, I'm Ankita.....👋
+## Hi, I'm Ankita....👋
 
 <!--
 **AnkitaKharpade/AnkitaKharpade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
